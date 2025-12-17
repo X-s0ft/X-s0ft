@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=X-s0ft.X-s0ft&left_color=aqua&right_color=black&left_text=Listeners"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=X-s0ft.X-s0ft&left_color=aqua&right_color=black&left_text=Listeners"/>
 </div>
 
 ###

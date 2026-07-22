@@ -1,5 +1,5 @@
 # 💫 About Me:
-I do cross-platform development. I write programs for Android, the web, and a bit for Windows
+Я занимаюсь кросс платформенной разработкой. Пишу программы под Андроид, веб и немного виндовс
 
 
 # 💻 Tech Stack:
